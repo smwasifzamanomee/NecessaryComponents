@@ -1,0 +1,10 @@
+.content{
+    height: 0px;
+    overflow: hidden;
+    transition: height ease 0.5s ;
+}
+
+.show{
+    height: 140px;
+    transition: height ease 0.5s;
+}
